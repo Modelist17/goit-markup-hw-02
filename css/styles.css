@@ -4,3 +4,7 @@
   background-color: #FFFFFF;
 }
 
+button {
+    cursor: pointer;
+}
+

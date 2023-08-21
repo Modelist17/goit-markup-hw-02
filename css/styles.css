@@ -1,3 +1,11 @@
+.link {
+    text-decoration: none;
+}
+
+.list {
+    list-style-type: none;
+}
+
 .body {
   font-family: "Roboto", sans-serif;
   color: #434455;
@@ -16,7 +24,7 @@ button {
   letter-spacing: 0.03em;
   text-transform: uppercase;
   color: #4d5ae5; 
-  
+
 }
 
 .menu {

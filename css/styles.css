@@ -43,3 +43,15 @@ button {
     color: #404bbf;
     color: #404bbf;
 }
+
+.number-mail-link {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #434455;
+}
+
+.number-mail-link:hover,
+.number-mail-link:focus {
+    color: #404bbf;
+    color: #404bbf;
+}
